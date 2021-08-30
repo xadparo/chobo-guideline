@@ -11,7 +11,7 @@
 1. [Git](https://ko.wikipedia.org/wiki/%EA%B9%83_(%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4))
 1. System resource 개념
 1. Network 개념
-1. 1개 이상의 언어(없는 경우 자바스크립트를 추천 드립니다.)
+1. 1개 이상의 언어(없는 경우 자바스크립트 또는 자바를 추천 드립니다.)
 
 ## 알고리즘 공부
 
