@@ -49,3 +49,13 @@ Lv.4~5 - 재능+노력의 결정체
 1. Slack
 1. Facebook group
 1. Discord
+
+## 실력을 늘리는 쉽고 좋은 방법
+
+다른 사람과의 소통 및 작업은 피드백을 통해 더 나은 커뮤니케이션 능력, 마인드 셋, 개발 능력을 가질 수 있습니다.  
+
+1. 자신의 코드를 남에게 설명하기
+2. 프로덕션 코드 리뷰 & 클론코딩  
+   기업이 직접 공개 해 놓은 프로덕션 코드는 좋은 예제 입니다.  
+   [Ridibooks: Frontend + React](https://github.com/ridi/books-frontend)  
+3. 짝코딩하기
